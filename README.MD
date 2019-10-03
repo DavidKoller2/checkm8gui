@@ -6,7 +6,7 @@ This is a GUI for [axi0mx's checkm8 bootrom exploit](https://github.com/axi0mx/i
 
 Leave an [issue](https://github.com/tier1r/checkm8gui/issues) if you encounter an issue with the GUI.
 
-The project is fully open source, so feel feel to contribute through a [pull request](https://github.com/tier1r/checkm8gui/pulls).
+The project is fully open source, so feel free to contribute through a [pull request](https://github.com/tier1r/checkm8gui/pulls).
 
 ### To build:
 1. Clone the repo
